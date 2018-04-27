@@ -1,6 +1,6 @@
 {
   "name": "git_commit",
-  "version": "1.1.1",
+  "version": "1.2.1",
   "description": "git commit demo",
   "main": "index.js",
   "scripts": {
